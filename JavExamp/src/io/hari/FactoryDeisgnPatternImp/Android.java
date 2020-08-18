@@ -7,6 +7,7 @@ public class Android implements OS{
 		// TODO Auto-generated method stub
 		System.out.println("Most Powerful OS ..");
 		System.out.println("Most Powerful OS .. One More Statement");
+		System.out.println("Most Powerful OS .. another More Statement");
 	}
 
 }
